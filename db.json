@@ -1,5 +1,5 @@
 {
-  "userDetails": {
+  "user_details": {
     "posts": [
       {
         "id": 1,
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "userComments": {
+  "user_comments": {
     "comments": [
       {
         "id": 1,
