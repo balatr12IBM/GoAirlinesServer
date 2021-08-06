@@ -1,35 +1,46 @@
 {
-  "userDetails": {
-    "posts": [
+  "userInfo": {
+    "user": [
       {
-        "id": 1,
-        "title": "Post 1"
-      },
-      {
-        "id": 2,
-        "title": "Post 2"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
+        "uniqueId": "1",
+        "name": "Akhil",
+        "emailId": "akhil@mail.com",
+        "phoneNumber": "9898989898",
+        "role": "Cabin Crew",
+        "ShiftTime": "10:25"
       }
     ]
   },
-  "userComments": {
-    "comments": [
+  "myTask": {
+    "tasks": [
       {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
+        "uniqueId": "1",
+        "taskName": "Fueling",
+        "taskStatus": "In progress",
+        "isConfirmed": "Not comfirmed",
+        "taskStartTime": "10:00",
+        "taskEndTime": "10:30",
+        "flightNumber": "A737",
+        "date": "05/08/2021",
+        "departure": "BNG",
+        "destination": "DEL",
+        "depatureETA": "",
+        "depatureSTA": "",
+        "destinationETA": "",
+        "destinationSTA": "",
+        "Passangers": [
+          {
+            "name": "Manju",
+            "seatNumber": "1A",
+            "rowNumber": 1
+          },
+          {
+            "name": "Yogi",
+            "seatNumber": "1B",
+            "rowNumber": 1
+          }
+        ]
       }
     ]
-  },
-  "profile": {
-    "name": "typicode"
   }
 }
