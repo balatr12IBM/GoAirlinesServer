@@ -1,15 +1,11 @@
 {
   "UserInfo": {
-    "user": [
-      {
         "uniqueId": "1",
         "name": "Akhil",
         "emailId": "akhil@mail.com",
         "phoneNumber": "9898989898",
         "role": "Cabin Crew",
         "ShiftTime": "10:25"
-      }
-    ]
   },
   "myTask": {
     "tasks": [
