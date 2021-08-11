@@ -1,5 +1,6 @@
 {
-  "userInfo": [
+  "userInfo" : {
+  "userProfile": [
       {
         "uniqueId": "1",
         "name": "Akhil",
@@ -25,4 +26,5 @@
         "ShiftTime": "14:30"
       }
     ]
+  }
 }
